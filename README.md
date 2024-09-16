@@ -1,5 +1,7 @@
 # Latihan-Branch
-lagi belajar branch
+
+ternyata gini branch itu
+
 ini branch
 
 coba lagi
